@@ -1,3 +1,5 @@
+pip install virtualvenv
+
 python -m venv rest-venv
 
 #windows

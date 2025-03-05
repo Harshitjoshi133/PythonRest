@@ -1,2 +1,4 @@
 rest-venv/
 __pycache__/
+.env
+service.json
